@@ -8,6 +8,6 @@ I have found 25+ H/M bugs in audit contests including 1 solo medium severity bug
 
 For private audits you can get in touch with me on [X](https://x.com/home)
 
-[C4 profile](https://code4rena.com/@gesha17)
-[Cantina profile](https://cantina.xyz/u/gesha17)
-[Sherlock profile](https://audits.sherlock.xyz/watson/gesha17)
+- [C4 profile](https://code4rena.com/@gesha17)
+- [Cantina profile](https://cantina.xyz/u/gesha17)
+- [Sherlock profile](https://audits.sherlock.xyz/watson/gesha17)
