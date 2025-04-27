@@ -8,6 +8,11 @@ Here you'll find my research, findings, audit reports, and war stories from the 
 
 > Trust nothing. Verify everything.
 
+🛠️ Found **40+ High/Medium severity bugs** during audits.  
+Targets ranged across staking protocols, lending platforms, bridges, and cross-chain messaging systems.  
+
+Below are the links to the findings. 👇
+
 # Links
 
 I am currently open for booking private audits. Get in touch with me on [X](https://x.com/shishgeor).
