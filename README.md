@@ -2,8 +2,7 @@
 
 **Breaking code to make it stronger.**
 
-I hunt bugs, tear apart smart contracts, and expose vulnerabilities before the bad guys do.  
-Deep into EVM internals, weird chains, DeFi protocols, and the occasional zero-day.  
+I hunt bugs, tear apart smart contracts, and expose vulnerabilities before the bad guys do.   
 Here you'll find my research, findings, audit reports, and war stories from the frontlines of Web3 security.
 
 > Trust nothing. Verify everything.
