@@ -2,7 +2,7 @@
 
 I hunt bugs, tear apart smart contracts, and expose vulnerabilities before the bad guys do.
 
-** Currently ranked #11 on code4rena 90-day leaderboard. Aiming for #1. **
+**Currently ranked #11 on code4rena 90-day leaderboard. Aiming for #1.**
 
 Multiple top 3 placements in competitive audits.
 🛠️ Found **50+ High/Medium severity bugs** during audits.
