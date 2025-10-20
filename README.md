@@ -1,11 +1,6 @@
 # gesha17 - Smart Contract Security Researcher - Intro
 
-**Breaking code to make it stronger.**
-
-I hunt bugs, tear apart smart contracts, and expose vulnerabilities before the bad guys do.   
-Here you'll find my research, findings, audit reports, and war stories from the frontlines of Web3 security.
-
-> Trust nothing. Verify everything.
+I hunt bugs, tear apart smart contracts, and expose vulnerabilities before the bad guys do.
 
 Multiple top 3 placements in competitive audits.
 🛠️ Found **50+ High/Medium severity bugs** during audits.
@@ -15,7 +10,7 @@ Below you can find links to my public profiles and some of my best findings. �
 
 # Links
 
-I am currently open for booking private audits. Get in touch with me on [X](https://x.com/shishgeor).
+I am open for booking private audits. Get in touch with me on [X](https://x.com/shishgeor).
 
 Here are my public profiles on the popular plaftorms:
 
