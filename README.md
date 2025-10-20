@@ -1,4 +1,4 @@
-# gesha17 - Smart Contract Security Researcher - Intro
+# gesha17 - Smart Contract Security Researcher
 
 I hunt bugs, tear apart smart contracts, and expose vulnerabilities before the bad guys do.
 
